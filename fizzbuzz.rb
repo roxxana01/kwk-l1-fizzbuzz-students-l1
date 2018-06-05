@@ -10,5 +10,6 @@ def fizzbuzz(int)
 end
  
 fizzbuzz(105) # => You should see a return of "Fizz"
-
+fizzbuzz(5) # => You should see a return of nil
+fizzbuzz(7) # => You should see a return of nil
 # fizzbuzz()  # => You should get an ArgumentError
